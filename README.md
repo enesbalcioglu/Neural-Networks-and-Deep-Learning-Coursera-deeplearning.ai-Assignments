@@ -21,5 +21,5 @@ The Deep Learning Specialization is [our](https://www.coursera.org/deeplearning-
    Build a neural network with one hidden layer, using forward propagation and backpropagation.
    ## Week 4
    ##### Deep Neural Networks
-   Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks. 
+   Analyze the key computations underlying deep learning, then use them to build and train deep neural networks for computer vision tasks.  
       
